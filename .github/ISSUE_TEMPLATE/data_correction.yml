@@ -1,0 +1,56 @@
+name: Data correction
+description: 선수, 팀, 시즌, 기록, 자산 정보의 수정 또는 누락 제보
+title: "[Data] "
+labels:
+  - data
+body:
+  - type: markdown
+    attributes:
+      value: |
+        데이터 수정 제안은 가능한 한 근거 자료와 함께 남겨주세요.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Player data
+        - Team data
+        - Season data
+        - Stats
+        - Logos / Uniforms / Ballparks / Facegen
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: subject
+    attributes:
+      label: Subject
+      placeholder: ex. Player name, team season, stadium, logo
+    validations:
+      required: true
+  - type: textarea
+    id: current_data
+    attributes:
+      label: Current data
+      placeholder: 현재 데이터가 어떻게 되어 있는지 적어주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_fix
+    attributes:
+      label: Proposed correction
+      placeholder: 어떤 식으로 수정되어야 하는지 적어주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      placeholder: 참고한 자료나 링크를 적어주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      placeholder: 추가로 알아야 할 내용이 있으면 적어주세요.

@@ -1,0 +1,354 @@
+﻿yearID,LgID,LeagueName,SubLeagueID,divID,TeamID,Franchise/AffiliationID,Rank/Wpct,G,Ghome,W,L,DivWin,WCWin,LgWin,WSWin,R,AB,H,2B,3B,HR,BB,SO,SB,CS,HBP,SF,RA,ER,ERA,CG,SHO,SV,IP,HA,HRA,BBA,SOA,E,DP,FP,name,City,Team Nickname,Park,attendance,BPF,PPF,4,MiLBFranchise
+1990,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1990,KFL,2-Gun League,2-Gun,,BGR2,BGR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BINGRE,BINGRE,Eagles,,,,,4,BGR2
+1990,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1990,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1990,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+1990,KFL,2-Gun League,2-Gun,,TAI2,TAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taipyungyang,Taipyungyang,Dolphins,,,,,4,TAI2
+1990,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1990,KFL,2-Gun League,2-Gun,,OB2,OB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OB,OB,Bears,,,,,4,OB2
+1991,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1991,KFL,2-Gun League,2-Gun,,BGR2,BGR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BINGRE,BINGRE,Eagles,,,,,4,BGR2
+1991,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1991,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1991,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+1991,KFL,2-Gun League,2-Gun,,TAI2,TAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taipyungyang,Taipyungyang,Dolphins,,,,,4,TAI2
+1991,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1991,KFL,2-Gun League,2-Gun,,OB2,OB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OB,OB,Bears,,,,,4,OB2
+1992,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1992,KFL,2-Gun League,2-Gun,,TAI2,TAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taipyungyang,Taipyungyang,Dolphins,,,,,4,TAI2
+1992,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1992,KFL,2-Gun League,2-Gun,,OB2,OB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OB,OB,Bears,,,,,4,OB2
+1992,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1992,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1992,KFL,2-Gun League,2-Gun,,BGR2,BGR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BINGRE,BINGRE,Eagles,,,,,4,BGR2
+1992,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+1993,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1993,KFL,2-Gun League,2-Gun,,TAI2,TAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taipyungyang,Taipyungyang,Dolphins,,,,,4,TAI2
+1993,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1993,KFL,2-Gun League,2-Gun,,OB2,OB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OB,OB,Bears,,,,,4,OB2
+1993,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1993,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1993,KFL,2-Gun League,2-Gun,,BGR2,BGR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BINGRE,BINGRE,Eagles,,,,,4,BGR2
+1993,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+1994,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1994,KFL,2-Gun League,2-Gun,,TAI2,TAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taipyungyang,Taipyungyang,Dolphins,,,,,4,TAI2
+1994,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1994,KFL,2-Gun League,2-Gun,,OB2,OB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OB,OB,Bears,,,,,4,OB2
+1994,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1994,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1994,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+1994,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+1995,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1995,KFL,2-Gun League,2-Gun,,TAI2,TAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taipyungyang,Taipyungyang,Dolphins,,,,,4,TAI2
+1995,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1995,KFL,2-Gun League,2-Gun,,OB2,OB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OB,OB,Bears,,,,,4,OB2
+1995,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1995,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1995,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+1995,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+1996,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1996,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+1996,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1996,KFL,2-Gun League,2-Gun,,OB2,OB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OB,OB,Bears,,,,,4,OB2
+1996,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1996,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1996,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+1996,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+1997,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1997,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+1997,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1997,KFL,2-Gun League,2-Gun,,OB2,OB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OB,OB,Bears,,,,,4,OB2
+1997,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1997,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1997,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+1997,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+1998,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1998,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+1998,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1998,KFL,2-Gun League,2-Gun,,OB2,OB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OB,OB,Bears,,,,,4,OB2
+1998,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1998,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1998,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+1998,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+1999,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+1999,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+1999,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+1999,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+1999,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+1999,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+1999,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+1999,KFL,2-Gun League,2-Gun,,SBW2,SBW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ssangbangwool,Ssangbangwool,Raiders,,,,,4,SBW2
+2000,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2000,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+2000,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2000,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2000,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2000,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
+2000,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2000,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2001,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2001,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+2001,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2001,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2001,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2001,KFL,2-Gun League,2-Gun,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2001,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2001,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2002,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2002,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+2002,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2002,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2002,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2002,KFL,2-Gun League,2-Gun,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2002,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2002,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2003,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2003,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+2003,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2003,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2003,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2003,KFL,2-Gun League,2-Gun,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2003,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2003,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2004,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2004,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+2004,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2004,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2004,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2004,KFL,2-Gun League,2-Gun,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2004,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2004,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2005,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2005,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+2005,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2005,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2005,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2005,KFL,2-Gun League,2-Gun,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2005,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2005,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2006,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2006,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+2006,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2006,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2006,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2006,KFL,2-Gun League,2-Gun,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2006,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2006,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2007,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2007,KFL,2-Gun League,2-Gun,,HD2,HD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hyundai,Hyundai,Unicorns,,,,,4,HD2
+2007,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2007,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2007,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2007,KFL,2-Gun League,2-Gun,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2007,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2007,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2008,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2008,KFL,2-Gun League,2-Gun,,WR2,WR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Woori,Woori,Heroes,,,,,4,WR2
+2008,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2008,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2008,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2008,KFL,2-Gun League,2-Gun,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2008,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2008,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2009,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2009,KFL,2-Gun League,2-Gun,,HEO2,HEO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seoul,Seoul,Heroes,,,,,4,HEO2
+2009,KFL,2-Gun League,2-Gun,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2009,KFL,2-Gun League,2-Gun,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2009,KFL,2-Gun League,2-Gun,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2009,KFL,2-Gun League,2-Gun,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2009,KFL,2-Gun League,2-Gun,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2009,KFL,2-Gun League,2-Gun,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2010,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2010,KFL,Korean Futures League,KFL,,NEX2,NEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nexen,Nexen,Heroes,,,,,4,NEX2
+2010,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2010,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2010,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2010,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2010,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2010,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2011,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2011,KFL,Korean Futures League,KFL,,NEX2,NEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nexen,Nexen,Heroes,,,,,4,NEX2
+2011,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2011,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2011,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2011,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2011,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2011,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2012,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2012,KFL,Korean Futures League,KFL,,NEX2,NEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nexen,Nexen,Heroes,,,,,4,NEX2
+2012,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2012,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2012,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2012,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2012,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2012,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2013,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2013,KFL,Korean Futures League,KFL,,NEX2,NEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nexen,Nexen,Heroes,,,,,4,NEX2
+2013,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2013,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2013,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2013,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2013,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2013,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2013,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2014,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2014,KFL,Korean Futures League,KFL,,NEX2,NEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nexen,Nexen,Heroes,,,,,4,NEX2
+2014,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2014,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2014,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2014,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2014,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2014,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2014,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2015,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2015,KFL,Korean Futures League,KFL,,NEX2,NEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nexen,Nexen,Heroes,,,,,4,NEX2
+2015,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2015,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2015,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2015,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2015,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2015,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2015,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2015,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2016,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2016,KFL,Korean Futures League,KFL,,NEX2,NEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nexen,Nexen,Heroes,,,,,4,NEX2
+2016,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2016,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2016,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2016,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2016,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2016,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2016,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2016,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2017,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2017,KFL,Korean Futures League,KFL,,NEX2,NEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nexen,Nexen,Heroes,,,,,4,NEX2
+2017,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2017,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2017,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2017,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2017,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2017,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2017,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2017,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2018,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2018,KFL,Korean Futures League,KFL,,NEX2,NEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nexen,Nexen,Heroes,,,,,4,NEX2
+2018,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2018,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2018,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2018,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2018,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2018,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2018,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2018,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2019,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2019,KFL,Korean Futures League,KFL,,KIW2,KIW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kiwoom,Kiwoom,Heroes,,,,,4,KIW2
+2019,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2019,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2019,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2019,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2019,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2019,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2019,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2019,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2020,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2020,KFL,Korean Futures League,KFL,,KIW2,KIW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kiwoom,Kiwoom,Heroes,,,,,4,KIW2
+2020,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2020,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2020,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2020,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2020,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2020,KFL,Korean Futures League,KFL,,SK2,SK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SK,SK,Wyverns,,,,,4,SK2
+2020,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2020,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2021,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2021,KFL,Korean Futures League,KFL,,KIW2,KIW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kiwoom,Kiwoom,Heroes,,,,,4,KIW2
+2021,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2021,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2021,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2021,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2021,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2021,KFL,Korean Futures League,KFL,,SSG2,SSG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SSG,SSG,Landers,,,,,4,SSG2
+2021,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2021,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2022,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2022,KFL,Korean Futures League,KFL,,KIW2,KIW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kiwoom,Kiwoom,Heroes,,,,,4,KIW2
+2022,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2022,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2022,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2022,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2022,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2022,KFL,Korean Futures League,KFL,,SSG2,SSG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SSG,SSG,Landers,,,,,4,SSG2
+2022,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2022,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2023,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2023,KFL,Korean Futures League,KFL,,KIW2,KIW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kiwoom,Kiwoom,Heroes,,,,,4,KIW2
+2023,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2023,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2023,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2023,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2023,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2023,KFL,Korean Futures League,KFL,,SSG2,SSG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SSG,SSG,Landers,,,,,4,SSG2
+2023,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2023,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2024,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2024,KFL,Korean Futures League,KFL,,KIW2,KIW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kiwoom,Kiwoom,Heroes,,,,,4,KIW2
+2024,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2024,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2024,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2024,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2024,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2024,KFL,Korean Futures League,KFL,,SSG2,SSG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SSG,SSG,Landers,,,,,4,SSG2
+2024,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2024,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2012,KFL,Korean Futures League,KFL,,NC2,IND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2014,KFL,Korean Futures League,KFL,,kt2,IND,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2001,KFL,2-Gun League,2-Gun,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2002,KFL,2-Gun League,2-Gun,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2003,KFL,2-Gun League,2-Gun,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2004,KFL,2-Gun League,2-Gun,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2005,KFL,2-Gun League,2-Gun,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2006,KFL,2-Gun League,2-Gun,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2007,KFL,2-Gun League,2-Gun,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2008,KFL,2-Gun League,2-Gun,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2009,KFL,2-Gun League,2-Gun,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2010,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2011,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2012,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2013,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2014,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2015,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2016,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2017,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2018,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2019,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2020,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2021,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2022,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2023,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2024,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG
+2005,KFL,2-Gun League,2-Gun,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2006,KFL,2-Gun League,2-Gun,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2007,KFL,2-Gun League,2-Gun,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2008,KFL,2-Gun League,2-Gun,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2009,KFL,2-Gun League,2-Gun,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2010,KFL,Korean Futures League,KFL,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2011,KFL,Korean Futures League,KFL,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2012,KFL,Korean Futures League,KFL,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2013,KFL,Korean Futures League,KFL,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2014,KFL,Korean Futures League,KFL,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2015,KFL,Korean Futures League,KFL,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2016,KFL,Korean Futures League,KFL,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2017,KFL,Korean Futures League,KFL,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2018,KFL,Korean Futures League,KFL,,KPB,KPB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Korean Police,Korean Police,Baseball Team,,,,,4,KPB
+2025,KFL,Korean Futures League,KFL,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
+2025,KFL,Korean Futures League,KFL,,KIW2,KIW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kiwoom,Kiwoom,Heroes,,,,,4,KIW2
+2025,KFL,Korean Futures League,KFL,,LOT2,LOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lotte,Lotte,Giants,,,,,4,LOT2
+2025,KFL,Korean Futures League,KFL,,DOO2,DOO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doosan,Doosan,Bears,,,,,4,DOO2
+2025,KFL,Korean Futures League,KFL,,LG2,LG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LG,LG,Twins,,,,,4,LG2
+2025,KFL,Korean Futures League,KFL,,KIA2,KIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KIA,KIA,Tigers,,,,,4,KIA2
+2025,KFL,Korean Futures League,KFL,,HH2,HH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hanwha,Hanwha,Eagles,,,,,4,HH2
+2025,KFL,Korean Futures League,KFL,,SSG2,SSG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SSG,SSG,Landers,,,,,4,SSG2
+2025,KFL,Korean Futures League,KFL,,NC2,NC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NC,NC,Dinos,,,,,4,NC2
+2025,KFL,Korean Futures League,KFL,,kt2,kt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kt,kt,Wiz,,,,,4,kt2
+2025,KFL,Korean Futures League,KFL,,SANG,SANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sangmoo,Sangmoo,Phoenix,,,,,4,SANG

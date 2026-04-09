@@ -1,0 +1,42 @@
+name: Missing asset
+description: 누락된 로고, 유니폼, 구장, 페이스젠 등 자산 제보
+title: "[Asset] "
+labels:
+  - asset
+body:
+  - type: dropdown
+    id: asset_type
+    attributes:
+      label: Asset type
+      options:
+        - Logo
+        - Uniform
+        - Ballpark
+        - Facegen
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: team_or_subject
+    attributes:
+      label: Team or subject
+      placeholder: ex. OB Bears 1986, player name, stadium name
+    validations:
+      required: true
+  - type: textarea
+    id: missing_asset
+    attributes:
+      label: What is missing?
+      placeholder: 누락된 자산 내용을 적어주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference material
+      placeholder: 이미지, 링크, 참고 자료가 있으면 남겨주세요.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      placeholder: 추가 설명이 있으면 적어주세요.
